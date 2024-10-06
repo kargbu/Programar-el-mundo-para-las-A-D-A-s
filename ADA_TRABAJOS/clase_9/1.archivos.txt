@@ -1,0 +1,6 @@
+# Ejemplo de leer archivos de txt
+
+Hola, esto es una pruba.
+Esta es la primera línea
+Esta es la segunda línea
+
